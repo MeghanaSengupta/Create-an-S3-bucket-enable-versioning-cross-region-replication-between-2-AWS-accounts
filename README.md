@@ -1,4 +1,4 @@
-# Create-an-S3-bucket-enable-versioning-cross-region-replication-between-2-AWS-accounts-suding-CLI
+# Create-an-S3-bucket-enable-versioning-cross-region-replication-between-2-AWS-accounts-using-CLI
 
 aws s3 mb s3://session10bucket --region eu-west-2
 
